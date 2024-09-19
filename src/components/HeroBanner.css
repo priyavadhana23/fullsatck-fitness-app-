@@ -1,0 +1,4 @@
+/* Remove styles related to positioning from the CSS file */
+.hero-banner-img {
+    object-fit: contain; /* Ensure the full image is displayed */
+}
